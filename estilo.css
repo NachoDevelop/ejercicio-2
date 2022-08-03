@@ -8,7 +8,6 @@
     margin: auto;
     border: 2px solid black;
     color: #fff;
-    
 }
 
 #rojo{
@@ -18,8 +17,6 @@
     width: 150px;
     height:150px;
     background-color: red;
-  
-    
 }
 
 #azul{
@@ -29,7 +26,6 @@
     width: 150px;
     height:150px;
     background-color: blue;
-
 }
 
 #verde{
@@ -39,6 +35,5 @@
     width: 150px;
     height:150px;
     background-color: green;
-
 }
 
